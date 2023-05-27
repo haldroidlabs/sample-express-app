@@ -1,0 +1,16 @@
+{
+  "name": "sample-express-app",
+  "version": "1.0.0",
+  "description": "Sample node API restfull app using express",
+  "main": "index.js",
+  "repository": "https://github.com/haldroidlabs/sample-express-app",
+  "author": "haldroid",
+  "license": "MIT",
+  "scripts": {
+  	"start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
